@@ -16,7 +16,7 @@ On Zoom; see the [Indico agenda](https://indico.cern.ch/event/1044648/) for the 
 
 ## How do I participate?
 
-   1. Download or clone this repo.
+   1. [Download](https://github.com/jpivarski-talks/2021-06-02-pyhepmod-jupyter-talk-talk/releases) or clone this repo.
    2. Install [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html), [RISE](https://rise.readthedocs.io/en/stable/installation.html), and [voila-reveal](https://github.com/voila-dashboards/voila-reveal#readme) on your computer.
    3. Connect to Sli.do at [https://app.sli.do/event/uxxevgbx](https://app.sli.do/event/uxxevgbx) to ask questions.
    4. Connect to Zoom (see [Indico agenda](https://indico.cern.ch/event/1044648/)).
