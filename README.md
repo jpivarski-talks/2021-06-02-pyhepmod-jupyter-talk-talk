@@ -28,6 +28,6 @@ The [introductory slides are here](https://github.com/jpivarski-talks/2021-06-02
 
 The notebooks all end with `.ipynb`.
 
-A recording of the tutorial session will be provided. (This is highly recommended, since we be go "off script" quite a lot.)
+A [recording of the tutorial session](https://youtu.be/UhidS7fZZko). (This is highly recommended, since we be go "off script" quite a lot.)
 
 Join the [PyHEP mailing list](https://hepsoftwarefoundation.org/workinggroups/pyhep.html) or [Gitter channel](https://gitter.im/HSF/PyHEP).
